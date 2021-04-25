@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      kosey coder
+      리액트 공부
+      리액트 아직은 잘 모르겠넹
     </div>
   );
 }
